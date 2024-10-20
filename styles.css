@@ -74,5 +74,5 @@ button:hover, .btn:hover {
 img {
     width: 600px;
     height: 300px;
-    object-fit: cover; /* Asegura que la imagen se ajuste sin distorsionarse */
+    object-fit: cover; 
 }
